@@ -1,0 +1,107 @@
+.zag {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+    max-width: 750px;
+    margin:auto;
+}
+.style {
+    background: beige;
+
+}
+.bb {
+    max-width: 750px;
+    margin: auto;
+    background-color: blanchedalmond;
+    padding: 15px;
+    border-radius: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.thr {
+    background-color: aqua;
+    padding: 15px 15px;
+
+}
+.fif {
+    background-color: greenyellow;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+.six {
+    background-color: pink;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.photo {
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+.calen {
+    width: 715px;
+    height: 300px;  
+    border-radius: 15px; 
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.sev {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+
+.eig {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+
+.nine {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+.markers {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+.ten {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+.end {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+}
+.end2 {
+    background-color: aliceblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+    text-align: center;
+}
